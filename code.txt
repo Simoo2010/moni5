@@ -1,2 +1,2 @@
 h1
-i was created by branch ftest1
+i was created by branchftest2 and branchftest1
